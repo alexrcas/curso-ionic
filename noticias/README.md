@@ -1,6 +1,7 @@
 ﻿# App de noticias
 
 Esta aplicación consiste en un feed de noticias que el usuario puede explorar, compartir y almacenar.
+![](https://github.com/alexrcas/curso-ionic/blob/master/assets/demo-noticias.gif?raw=true)
 
 ## Descripción
 Se trata de una aplicación donde el usuario dispone siempre de un resumen de la última actualidad. Para cada noticia, es posible compartir, almacenar en *Favoritos* y por supuesto, acceder a la noticia completa en el sitio original que la ofrece.
