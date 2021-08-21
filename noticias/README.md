@@ -1,6 +1,7 @@
 ﻿# App de noticias
 
 Esta aplicación consiste en un feed de noticias que el usuario puede explorar, compartir y almacenar.
+
 ![](https://github.com/alexrcas/curso-ionic/blob/master/assets/demo-noticias.gif?raw=true)
 
 ## Descripción
