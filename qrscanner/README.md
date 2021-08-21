@@ -3,6 +3,8 @@
 
 Esta aplicación consiste en un escáner de códigos QR
 
+![](https://github.com/alexrcas/curso-ionic/blob/master/assets/demo-qrscanner.gif?raw=true)
+
 ## Descripción
 Se trata de una aplicación donde el usuario puede escanear códigos QR que enlazan a sitios web o bien contienen una geolocalización. En el primer caso se abrirá el navegador web y en el segundo un mapa 3D interactivo. Los códigos QR quedarán almacenados para su posterior uso junto con información de a qué tipo pertenecen (web o coordenadas geográficas).
 
