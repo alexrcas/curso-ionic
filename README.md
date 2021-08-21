@@ -6,4 +6,7 @@ Cada subdirectorio es un proyecto que contiene una página como esta donde se de
 ### Nota sobre el código fuente
 En este curso se presupone una cierta base de programación en general, y de Angular y Typescript en particular. El curso pretende mostrar únicamente las características de Ionic, por lo que a la hora de escribir el código fuente si bien se ha tenido algo de cuidado con su limpieza, no se ha pasado por una fase de diseño de arquitectura o uso de patrones, ya que se trata de pequeños ejercicios para conocer una tecnología de forma rápida, y no busca producir grandes proyectos de forma robusta y escalable.
 
+### Aplicaciones
+1. [App de noticias](https://github.com/alexrcas/curso-ionic/tree/master/noticias)
+2. [App escáner de QR](https://github.com/alexrcas/curso-ionic/tree/master/qrscanner)
 
